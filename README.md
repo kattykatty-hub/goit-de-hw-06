@@ -133,4 +133,4 @@ The alerts were generated using controlled high-temperature sensor readings to v
 
 Result: Successful end-to-end verification of the Kafka–Spark–Kafka pipeline, including alert detection and delivery to the output Kafka topic.
 
-![alt text](screenshots/03_alerts_to_kafka.png.png)
+![alt text](screenshots/03_alerts_to_kafka.png)
